@@ -18,9 +18,25 @@ open your powershell and type:
 > pip install PIL (if u want add image to your gui)
 > pip install tkinter (if you want the gui part too)
 ```
-
+## TO RUN(command prompt):
+  ```bash
+  > cd download(or the location where u saved the attendance-automater.py)
+  > python attendance-automater.py
+  ```
 ## SCREENSHOT OF THE OUTPUT:
 <p align="center">
 <img src="https://github.com/whitereaper25/attendance-automater/blob/master/output%20ss.png" alt="PNG" width="997" height="787"/>
 </p>
 
+* The csv file ss on the left is given as input and csv file "output.csv" on the right is given as output path:
+<p align="center">
+<img src="https://github.com/whitereaper25/attendance-automater/blob/master/final_output.png" alt="PNG" width="1920" height="1012"/>
+</p>
+
+## NOTE:
+ * if you will difficulty in installing the package there will be soon exec to make 
+ package installation easier
+ * The codes are made from crash and is not cloned or copied from other repositories
+## SPECIAL THANKS TO MY TEAM MATES:
+
+## Project of Robotic and automation club,kct
