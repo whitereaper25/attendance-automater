@@ -20,3 +20,7 @@ open your powershell and type:
 ```
 
 ## SCREENSHOT OF THE OUTPUT:
+<p align="center">
+<img src="https://github.com/whitereaper25/attendance-automater/blob/master/output%20ss.png" alt="PNG" width="997" height="787"/>
+</p>
+
