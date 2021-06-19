@@ -34,9 +34,15 @@ open your powershell and type:
 </p>
 
 ## NOTE:
+ * I would like to remind you that this is an open source code. so, anyone can view and modify
+ * The codes are made from crash and is not cloned or copied from other repositories
  * if you will difficulty in installing the package there will be soon exec to make 
  package installation easier
- * The codes are made from crash and is not cloned or copied from other repositories
 ## SPECIAL THANKS TO MY TEAM MATES:
+* [Harsh choudhary](https://github.com/Harshchoudhary1413)
+* [kavyashree](https://github.com/kavyashree2002)
+
+## ISSUES:
+* If you face any issues or error feel free to post it 
 
 ## Project of Robotic and automation club,kct
