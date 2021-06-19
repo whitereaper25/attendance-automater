@@ -38,7 +38,7 @@ open your powershell and type:
  * The codes are made from crash and is not cloned or copied from other repositories
  * if you will difficulty in installing the package there will be soon exec to make 
  package installation easier
-## SPECIAL THANKS TO MY TEAM MATES:
+## SPECIAL THANKS TO MY TEAM MATES AND COLLABORATORS:
 * [Harsh choudhary](https://github.com/Harshchoudhary1413)
 * [kavyashree](https://github.com/kavyashree2002)
 
