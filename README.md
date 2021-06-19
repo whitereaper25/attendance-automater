@@ -44,5 +44,8 @@ open your powershell and type:
 
 ## ISSUES:
 * If you face any issues or error feel free to post it 
+## CONTACT:
+* [Linkedin](https://www.linkedin.com/in/yogesh-t-5424211bb/)
+* [Robotic and automation club](https://www.linkedin.com/company/robotics-and-automation-club/mycompany/)
 
 ## Project of Robotic and automation club,kct
