@@ -25,12 +25,12 @@ open your powershell and type:
   ```
 ## SCREENSHOT OF THE OUTPUT:
 <p align="center">
-<img src="https://github.com/whitereaper25/attendance-automater/blob/master/output%20ss.png" alt="PNG" width="997" height="787"/>
+<img src="https://github.com/whitereaper25/attendance-automater/blob/main/output%20ss.png" alt="PNG" width="997" height="787"/>
 </p>
 
 * The csv file ss on the left is given as input and csv file "output.csv" on the right is given as output path:
 <p align="center">
-<img src="https://github.com/whitereaper25/attendance-automater/blob/master/final_output.png" alt="PNG" width="1920" height="1012"/>
+<img src="https://github.com/whitereaper25/attendance-automater/blob/main/final_output.png" alt="PNG" width="1920" height="1012"/>
 </p>
 
 ## NOTE:
