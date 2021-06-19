@@ -15,7 +15,7 @@ open your powershell and type:
 ```bash
 > pip install pandas(not that its pandas not panda)
 > pip install numpy
-> pip install PIL (if u want add image to your gui)
+> pip install pillow (if u want add image to your gui)
 > pip install tkinter (if you want the gui part too)
 ```
 ## TO RUN(command prompt):
