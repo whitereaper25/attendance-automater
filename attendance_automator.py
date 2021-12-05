@@ -46,4 +46,4 @@ def clicked():
 	lb2.configure(text=res)
 btn = Button(window, text = 'click to proceed', command=clicked)
 btn.grid(column=2, row=2)
-window.mainloop(
+window.mainloop()
